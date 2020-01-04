@@ -1,1 +1,2 @@
 "# Menace" 
+Program w pythonie do gry MENACE. Program uczy manace gry przeciwko automatycznemu przeciwnikowi (przeciwnik losowo wybiera miejsce, ale jeœli mo¿e wygraæ w jednym ruchu to wygrywa). MENACE uczy siê wygrywaæ.
