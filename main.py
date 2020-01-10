@@ -1,13 +1,13 @@
 from game import Game
 
-FILENAME = "test.csv"
+FILENAME = "./Wyniki/test.csv"
 
 
 def main():
     results = []
     ticTacToe = Game()
     # perform 100 game sets
-    for j in range(1, 101):
+    for j in range(1, 501):
         menace = player = draw = 0
         # perform 50 games
         for i in range(1, 50):
